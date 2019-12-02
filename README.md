@@ -12,3 +12,7 @@
   - CBOW
 - Modeling
   - `Gaussian Naive Bayse`
+
+## To be continued...
+- JST + KorBERT + WAEs(Wasserstein AutoEncoder)
+- 목적: 문맥과 의도를 파악하는 빠른 감정 군집화 알고리즘 생성
