@@ -1,0 +1,5 @@
+# 2019.11.12
+version 0.0
+- JST에 stopwords, 한글 이외의 문자를 배제하는 전처리 메서드 존재
+    - 차후 버전 preprocess.preprocess.py에 추가되고 위 메서드는 삭제될 예정
+- Crawled Data 처리 코드 수록해야 함
