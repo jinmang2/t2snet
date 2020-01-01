@@ -2,6 +2,8 @@
 
 ## Version 0.0
 ![title](https://github.com/jinmang2/t2snet/blob/master/img/t2snet.PNG?raw=true)
+- Author
+  - [MyungHoon Jin](https://github.com/jinmang2) / [Hohyun-Kim](https://github.com/Hohyun-Kim)
 - Preprocessing
   - `py-hanshell`
   - `chatspace`
